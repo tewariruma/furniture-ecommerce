@@ -196,3 +196,7 @@ h2::after {
 	color: brown;
 	border: none;
 }
+
+.icon-hover {
+	cursor: pointer;
+}
